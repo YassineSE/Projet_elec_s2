@@ -1,0 +1,4 @@
+Circuit: * D:\Cours\Electronique\S1\Projet s2\Cahier des charges et fichiers de simulation-20211130\projet_s2a_21\dossier_simulation_ADSR_S2A\Draft1.asc
+
+Fatal Error: Unknown subcircuit called in:
+   xu1 e1 0 e2 0 vcc- nc_01 nc_02 vcc+ ad633
